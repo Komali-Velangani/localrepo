@@ -1,0 +1,5 @@
+Hello! 
+Welcome to a new git repository!
+Currently, this is a local repo created on my computer, and then initialized as a git repo.
+This is for my practice with version control system
+Excited to learn more about Git & GitHub!
